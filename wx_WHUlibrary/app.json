@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/seat/seat",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "武大图书馆抢座内测版",
+    "navigationBarTextStyle":"black"
+  }
+}

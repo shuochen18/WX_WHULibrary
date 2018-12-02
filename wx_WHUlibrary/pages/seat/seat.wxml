@@ -1,0 +1,18 @@
+<!--pages/seat/seat.wxml-->
+<view class='content'>
+<view class='users'>
+<image src='../image/2.jpg' class='img1' mode="widthFix" bindtap="student1"></image>
+<image src='../image/3.jpg' class='img2' mode="widthFix" bindtap="student2"></image>
+</view>
+<view class='display'>
+<view>用户:{{user}}</view>
+<view>释放状态:{{releaseflag}}</view>
+<view style=" word-break: break-all">预约状态:{{reserveflag}}</view>
+<view bindtap='count'>倒计时:{{timeinterval}}</view>
+</view>
+
+</view>
+
+
+
+

@@ -1,0 +1,33 @@
+/* pages/seat/seat.wxss */
+
+
+/*宽度和居中要分开写*/
+.users{ 
+     height: 50%;
+     display:flex;                    
+     justify-content: center;
+     align-items:center;  
+}
+
+.users image { 
+  width:20%;
+}
+
+.content{
+  font-family:微软雅黑;
+  font: bold;
+  color: blueviolet;
+  font-size: 16px;
+  white-space: nowrap;
+
+}
+
+.content{
+  background-image: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=383091830,2895298619&fm=26&gp=0.jpg');
+    width:100%;
+    height:100%;
+    background-size:cover;
+    position:absolute;
+    white-space: pre-wrap;
+}
+
