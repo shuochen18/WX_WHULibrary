@@ -10,7 +10,7 @@ Wechat miniprograme version, WHU library seat reservation.
 
 使用方法：
 1. 参考 https://developers.weixin.qq.com/miniprogram/dev/#%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7 配置好开发环境。
-2. 编辑 pages/seat/seat.js， 修改36,37，38，142行，分别填上姓名，学号，密码，和座位号（需要在预约网页上面查看元素-查看座位的seat_number）。
+2. 编辑 pages/seat/seat.js， 修改36,37,38,142行，分别填上姓名，学号，密码，和座位号（需要在预约网页上面查看元素-查看座位的seat_number）。
 3. ctrl+s保存，扫码下载到手机，小程序右上角点开调试模式！
 是有些麻烦啦，有兴趣的可以学习下，关注者少估计不会更新了。
 对不起大家==，实在是为了根据自己需求方便自己，速成学习的，可能对于使用者来说不是很方便。
